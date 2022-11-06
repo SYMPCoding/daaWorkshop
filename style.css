@@ -1,0 +1,16 @@
+h1{
+    font-size: 60px;
+    color: aqua;
+    margin:auto;
+}
+#testPara{
+    color: orangered;
+    padding: auto;
+    border: 3 px;
+    border-style: dotted;
+    border-radius: 3px;
+    background-color: blueviolet;
+}
+html{
+    background-color: bisque;
+}
